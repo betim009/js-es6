@@ -9,3 +9,4 @@ Revisão de conceitos sobre o es6 do js.
     1. script.js
     2. script.js
     3. promises.js
+    4. hofs.js
